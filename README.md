@@ -5,24 +5,9 @@
 ![deep](https://user-images.githubusercontent.com/12748752/181097747-f97a41d2-ebab-4295-8dae-fac47563a251.png)
 Paraphrase generation is the task of generating an output sentence that preserves the meaning of the input sentence with variations in word choice and grammar.
 
-> Two sentences are paraphrases if their meanings are equivalent but their words and syntax are different.
-
-The Problematic Paper Screener project searches through published science and seeks out “tortured phrases” in order to find suspect work. A tortured phrase is an established scientific concept paraphrased into a nonsensical sequence of words. Academic fraudsters and modern plagiarists are turning words like **“Artificial Intelligence”** into **“counterfeit consciousness”**, and **“Mean square error”** into **“mean square blunder”**.
-
-Learning about Paraphrase Generation methods helps us not only to spot these kinds of threats, but also to exploit the bright side of paraphrasing: expand our understanding.
-
 Paraphrasing can be used to aid comprehension, stimulate prior knowledge, and assist in writing-skills development.
 
 Paraphrasing text can facilitate reading comprehension by transforming the text into a more familiar, and in the field of composition, allow writers to restate ideas from other works or their own drafts so that the reformatted language may better suit a voice, flow, or line of argument.
-
-### Online Paraphrasing
-![light](https://user-images.githubusercontent.com/12748752/181097751-9be22081-c630-4756-9ea8-2c27fdce6984.png)
-* [QuillBot](https://quillbot.com/)
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/12748752/211270165-b5309d7a-8d97-4997-b000-18fcf8f31976.png" width=60%/>
-</p>
-
 
 
 ## TECHNOLOGY USE
