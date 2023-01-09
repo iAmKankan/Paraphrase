@@ -51,4 +51,3 @@ _`pip install -r requirements.txt`_
 ![deep](https://user-images.githubusercontent.com/12748752/181097747-f97a41d2-ebab-4295-8dae-fac47563a251.png)
 * [Drive](https://drive.google.com/drive/folders/1TUdS16i6qEeG7wP931IuHb4Fuq1guyPE?usp=share_link)
 * **Time**- _13-March-22,00:30:26_
-* [Medium](https://lopezyse.medium.com/paraphrasing-in-natural-language-processing-nlp-857c28e68488)
