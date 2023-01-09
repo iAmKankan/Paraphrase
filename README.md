@@ -18,7 +18,7 @@ Paraphrasing text can facilitate reading comprehension by transforming the text 
 
 ## TECHNOLOGY USE
 ![deep](https://user-images.githubusercontent.com/12748752/181097747-f97a41d2-ebab-4295-8dae-fac47563a251.png)
-Here we will be using  Anaconda Python 3.6 , Pytorch 1.4 with GPU support CUDA 10 with CuDNN 10.
+Here we will be using  Anaconda Python 3.6 , Pytorch 1.4 with GPU support CUDA 10 with CuDNN 10.simpletransformers==0.60.9,
 
 
 
