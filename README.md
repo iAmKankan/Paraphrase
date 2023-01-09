@@ -1,6 +1,5 @@
 # Paraphrase With Transformer
 ![deep](https://user-images.githubusercontent.com/12748752/181097747-f97a41d2-ebab-4295-8dae-fac47563a251.png)
-![light](https://user-images.githubusercontent.com/12748752/181097751-9be22081-c630-4756-9ea8-2c27fdce6984.png)
 
 ## DESCRIPTION OVERVIEW
 ![deep](https://user-images.githubusercontent.com/12748752/181097747-f97a41d2-ebab-4295-8dae-fac47563a251.png)
@@ -15,6 +14,16 @@ Learning about Paraphrase Generation methods helps us not only to spot these kin
 Paraphrasing can be used to aid comprehension, stimulate prior knowledge, and assist in writing-skills development.
 
 Paraphrasing text can facilitate reading comprehension by transforming the text into a more familiar, and in the field of composition, allow writers to restate ideas from other works or their own drafts so that the reformatted language may better suit a voice, flow, or line of argument.
+
+### Online Paraphrasing
+![light](https://user-images.githubusercontent.com/12748752/181097751-9be22081-c630-4756-9ea8-2c27fdce6984.png)
+* [QuillBot](https://quillbot.com/)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12748752/211270165-b5309d7a-8d97-4997-b000-18fcf8f31976.png" width=60%/>
+</p>
+
+
 
 ## TECHNOLOGY USE
 ![deep](https://user-images.githubusercontent.com/12748752/181097747-f97a41d2-ebab-4295-8dae-fac47563a251.png)
